@@ -20,3 +20,14 @@ section{
     height: 200px;
 }
 
+.about{
+    background-color: lightblue;
+}
+
+.projects{
+    background-color: lightgreen;
+}
+
+#skills{
+    background-color: lightyellow;
+}
