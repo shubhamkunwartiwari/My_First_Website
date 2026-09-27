@@ -31,3 +31,8 @@ section{
 #skills{
     background-color: lightyellow;
 }
+
+main {
+    display: flex;
+    flex-direction: row;
+}
